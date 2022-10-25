@@ -1,0 +1,73 @@
+body {
+
+    background: rgb(213, 245, 171);
+    font-family: "Lucida GRande", "Lucida Sans Unicode", Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.place {
+    background-color: #fff;
+    border-color: rgb(54, 105, 6);
+    border: 1px solid rgb(54, 105, 6);
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.place a {
+    color: #15839e;
+    font-weight: bold; 
+}
+
+h1 a {
+    color:rgb(54, 105, 6);
+    text-decoration: none;
+}
+
+h1 a:hover {
+    background-color:rgb(54, 105, 6);
+    color: rgb(255, 255, 255)
+}
+
+.place img {
+    border: 1px solid #15839e;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    font-size: 12px;
+    text-align: center;
+}
+
+.sidenote {
+    background-color: rgb(168, 184, 78);
+    border: 1px solid rgb(92, 100, 43);
+    padding: 10px;
+    float: right;
+    width: 260px;
+}
+
+.sidenote h3 {
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.sidenote ol {
+    font-size: 12px;
+}
+
+.places {
+    float: left;
+    width: 660px;
+}
